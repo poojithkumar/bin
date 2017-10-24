@@ -1,8 +1,4 @@
-#1. Introduction to Python: Functions and I/O - Write a temperature converter python program, which is menu driven.
-#Each such conversion logic should be defined in separate functions. The program should call the respective function
-#based on the users requirement. The program should run as long as the user wishes so. Provide an option to view the last
-#5 conversions stored as list of tuples with attributes - from unit, value, to unit, value, date and time of conversion, sorted
-#by the users choice (from-value, to-value or date/time).
+
  
 import datetime
 import time
