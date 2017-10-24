@@ -1,9 +1,4 @@
  
-#1. Introduction to Python: Files, List and Dictionary - Write a python program to read contents of a file (filename as 
-#argument) and store number of occurrences of each word in a dictionary. Display the top 10 words with most number of 
-#occurrences in descending order. Store the length of each of these words in a list and display the list. Write a one-line 
-#reduce function to get the average length and one-line list comprehension to display squares of all odd numbers and 
-#display both. 
  
 import sys 
 import os 
