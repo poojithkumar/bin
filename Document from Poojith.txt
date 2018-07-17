@@ -1,0 +1,8 @@
+How to execute
+
+ns <filename>.tcl
+
+awk -f <filename>.awk <filename>.tr
+
+Note: Programs are case sensitive. Be careful of spaces,brackets and capitaliztion of Letters.
+
